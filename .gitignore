@@ -25,3 +25,17 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.stTheme.cache
 *.sublime-workspace
 *.sublime-project
+
+
+# CI setting File 
+#-------------------------
+application/config/config.php
+application/config/database.php
+
+# wp setting File 
+#-------------------------
+cms/wp-config.php
+cms/index.php
+cms/wp-content/backup-db/*
+cms/wp-content/uploads/*
+
